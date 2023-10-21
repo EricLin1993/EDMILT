@@ -1,21 +1,9 @@
 # EDMILT
-EDMILT is proposed for multidimensional Inverse Laplace Transform of high-resolution NMR spectra and publised in' Enping Lin, et al. Journal of Physical Chemistry Letter 2021'.
-This code is programed in Matlab2016b. The TNIPM optimaztion is programmed based on the code of Kwangmoo Koh, Seung-Jean Kim and Stephen Boyd and their COPYRIGHT notice is as followings:
+EDMILT is proposed for multidimensional Inverse Laplace Transform of high-resolution NMR spectra by Enping Lin et al. 
+If you use the code for any purpose, please cite the relateds papers:
 
-l1_ls: A Matlab solver for l1-regularized least squares problems.
+   (1) Enping Lin, Ville-Veikko Telkki, Xiaoqing Lin, Chengda Huang, Haolin Zhan, Yu Yang*, Yuqing Huang*, and Zhong Chen*High-Resolution Reconstruction for Multidimensional Laplace NMR, J. Phys. Chem. Lett. 2021, 12, 21, 5085–5090.  https://doi.org/10.1021/acs.jpclett.1c01022
+   (2) Kim, S. J.; Koh, K.; Lustig, M.; Gorinevsky, S. B. D., An Interior-Point Method for Large-Scale L1-Regularized Least Squares. IEEE Journal of Selected Topics in Signal Processing 2008, 1 (4), 606-617.
+   
 
-BETA version, May 10 2008
-
-COPYRIGHT (c) 2007  Kwangmoo Koh, Seung-Jean Kim and Stephen Boyd.
-
-Permission to use, copy, modify, and distribute this software for
-any purpose without fee is hereby granted, provided that this entire
-notice is included in all copies of any software which is or includes
-a copy or modification of this software and in all copies of the
-supporting documentation for such software.
-This software is being provided "as is", without any express or
-implied warranty.  In particular, the authors do not make any
-representation or warranty of any kind concerning the merchantability
-of this software or its fitness for any particular purpose.
-
---------------------------------------------------------------------------------
+Contact: Enping Lin (林恩平) Ph.D. ： enpinglin@qq.com
